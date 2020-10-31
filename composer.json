@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aura/sql": "^3.0",
+        "aura/auth": "^4.0",
+        "aura/router": "^3.1"
+    }
+}

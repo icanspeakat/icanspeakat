@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.5",
+        "wittestier/oauth2-meetup": "^1.0"
+    }
+}
